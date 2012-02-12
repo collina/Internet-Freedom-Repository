@@ -1,0 +1,1453 @@
+/*
+	Dataset:	Organizations and Names in OFAC License Applications: 2010-2011 
+	Note 1:		Includes all OFAC programs -- Iran, Syria, Libya, SDGT, et al; 
+	Note 2:		Sourced from original excel columns, processed from `sort | uniq`
+	Reference:	http://www.sanctionlaw.com/2012/02/11/ofacs-licensing-database-released/                                          
+*/ 
+                             
+"Lighthouse" United Methodist Church of Boca Grande 
+(b)(6)
+(b)(6)  (DBA Alalameya Pharma)
+(b)(6)  - Office of William Jefferson Clinton
+3M Company
+3i Infotech Financial  Software Inc
+3i Infotech Financial Software Inc
+A DOMINGUEZ INC
+A P Moller A/S
+A.R. Savage & Son, LLC
+ABG PATENTES S.L.
+ABS Corporation
+ABS Global, Inc.
+AGA Medical Corporation
+AHMED AL ALI TRADING CO. (LLC)  
+AIR INDIA CHARTERS  LIMITED
+AIR INDIA CHARTERS LIMITED
+AJC International, Inc.
+AKAKUS OIL OPERATION
+ALTA
+AMERICAN SURGICAL COMPANY, LLC
+AON LIMITED
+ARENA LIBROS S.L. 
+ARIAN PULP AND PAPER CO LTD
+ARIES MARINE PTE LTD
+ASOCIACION BENEFICO CULTURAL DEL SANTISIMO REDENTOR
+ASOCIATIA PRO DEMOCRATIA BUCURESTI
+AT&T
+AT&T 
+ATKINS TRAVEL LIMITED
+ATLANTIC HOSPITALITY
+AYSO-Southernmost Soccer Association
+Aalba Dent, Inc.
+Aanderra  Data Instruments  AS
+Aanderra  Data Instruments AS 
+Aaren Scientific, Inc.
+Abbot Laboratories
+Abbott Laboratories
+Abbott Pharmaceuticals
+Abercrombie & Kent
+Abu Dhabi International Bank
+Advanced Bionics, LLC
+Advanced International Pulp & Paper Corp.
+Advanced International Pulp & Paper Corp. (AIPAP)
+Advanced International Pulp & Paper Corp. (AIPAP) 
+Afrian Union / United Hybrid Operation in Darfur
+Ag-Link International, Inc.
+Agro Acion Alemana 
+AirSep Corporation
+Airon Corporation
+Akorn, Inc.
+Alcon Laboratories, Inc.
+Alere, Inc.
+Alex Rosenberg Fine Art
+Alfa Vitamins Laboratories
+Alfa Wassermann, Inc.
+Alfred C. Toepfer International GmbH
+Alfred C. Toepfer International, Inc.
+Alink Telecom Tanzania limited
+Alliance One International Inc.
+Allied Healthcare Products, Inc.
+Alston & Bird LLP
+Alta Genetics USA Inc.
+Alumnae Association of Smith College
+Alvarez & Marsal Holdings, LLC
+Alvarez & Marsal Holdings, LLC & Alvarez & Marsal Colombia Ltda.
+American Best Brands
+American Bible Society
+American Biosystems,Inc
+American Commodity Company, LLC
+American Friends of the Ludwig Foundation of Cuba
+American Good Health, Inc.
+American Jewish Joint  Distribution Committee
+American Jewish Joint Distribution Committee
+American Life Inc.
+American Life, Inc.
+American Logistics International, LLC
+American Museum of Natural History
+American Natural & Health Products, Inc.
+American Optisurgical Inc.
+American Pulp & Paper Corporation
+American Pulp and Paper Corp
+American Pulp and Paper Corporation
+American Red Cross
+American Rice, Inc.
+American Shipping and Chartering
+American Society for Muslim Advance 
+Americana Marine Services
+Americas Media Initiative
+Amgen Inc.
+Amherst College 
+AmniSure International LLC
+Andre Import & Distribution
+Angeth Foundation, Inc.
+Angiotech
+Anglican Church in North America
+Ansell International Trading LLC
+Applicants:(b)(6)
+Aquaseed Corporation
+Arab Authority for Agricultural Investment and Development 
+Arab Banking Corporation BSC
+Arab Banking Corporation Internaitonal Bank
+Archer Daniels  Midland Company 
+Archer Daniels Midland Company
+Arcomex, S.A. de C.V.
+Ardmore Shipping Limited
+Ardmore Shipping Limited 
+Arent Fox PLLC
+Areva  NC Inc.
+Areva NC Inc.
+Aristotle Corporation (Doing Business as Nasco)
+Arizona State University
+Arlene Collins Photography, LLC
+Arroya International Ltd.
+Art Encounter
+Arthrex, Inc.
+Asia Society
+Asociation of Spanish Baptist Church of Florida ABC, Inc
+Assist International
+Associated Shipbroking (ASM)
+AstraZeneca Pharmaceuticals, USA
+Astrium, SAS
+Athletic International Missions (AIM)
+Atlantis Sevens USA
+Atlas Packaging, Inc.
+Audina Hearing Instruments, Inc
+Aurora Assisted Living EB-5 Fund, LLC ("AALEF")
+Austin-Lehman Adventures, LLC
+Avestra Chemical DMCC
+Aviagen, Inc.
+Awareness Technology Inc
+BAKER AND MCKENZIE LLP
+BANCO DE AMERICA CENTRAL SA
+BARCLAYS BANK PLC
+BCB Enterprises Inc
+BERTLING LOGISTICS CHILE SA
+BIONICHE PHARMA
+BIll Warner Photography
+BLUMAR BRAZIL N RIO TURIS LTDA (PASSION BRAZIL)
+BMV Industries, Inc.
+BNP Paribas
+BNP Paribas El Djazair  S.P.A.
+BNP Paribas S.A. 
+BNY Mellon
+BP Exploration Libya Limited through BP International Ltd.
+BREAD FOR ALL
+Baker & McKenzie
+Baker & McKenzie LLP
+Baker Botts L.L.P.
+Baker Botts LLP
+Baker, Donelson, Bearman, Caldwell & Berkowitz, PC
+Banco de Chile
+Bank of American on behalf of the Damascus Community School
+Bank of New York Mellon
+Banque de France
+Baptist Medical Dental Fellowship
+Barreto & Romero, P.A.
+Bausch & Lomb Incorporated
+Baxter Healthcare  Corporation
+Baxter Healthcare Corporation
+Baxter International Inc.
+Bay Are 
+Bay Financial Limited
+Bayer Corporation
+Bayer HealthCare Pharmaceuticals, Inc.
+Beck's Funeral Home
+Beck's Funeral Home/ Restlawn Memorial Park
+Beckman Coulter Inc.
+Becton Dickinson France S.A.S.
+Becton Dickinson and Company
+Becton, Dickinson and Company
+Becton, Dickinson and Company and its foreign subsidiary Becton Dickinson B.V.
+Becton, Dickinson and Company and its foreign subsidiary Becton Dickinson B.V. 
+Bemis Company, Inc. & Dixie Toga Plasticos Rigidos
+Bemis Company, Inc. & Dixie Toga Plasticos Rigidos Ltda./ Dixie Toga S.A.
+Bergen Funeral Service
+Berklee College of Music
+Berklee College of Music 
+Bernardo Garcia Funeral Homes
+Berry Plastics Corporation
+Bethel Church of Redding
+Beverage Partners Worldwide, S.A.
+Bible Missionary Fellowship Inc.
+Biehl & Co., L.P.
+Bingham McCutchen LLP
+Bio-Med Devices, Inc.
+BioElectronics Corporation
+Biodex Medical Systems, Inc. "Biodex"
+Biomedix Medical Systems, Inc.
+Biomet, Inc.
+Biomune Company
+Blank Rome LLP
+Block Imaging International Inc.
+Boeing Company
+Bonanza Seeds International, Inc.
+Bortim Sdn Bhd
+Borzal Consulting, Inc. d/b/a Gardesco International
+Boscogen, Inc.
+Boston Scientific Corporation
+Boston Scientific Corporation  
+Botswana   Government
+Botswana Government
+Brazilian Embassy in Tripoli
+Bridge Investment, S.L.
+British Arab Commercial Bank plc
+BroadGrain Commodities Inc.
+Brookside Agra
+Brothers Habet Limited
+Brown Colonial Mortuary
+Bunge Global Markets, Inc.
+Bunge Global Markets, Inc. and Bunge London Limited
+Bunge Global Markets, Inc., Bunge Agritrade S.A., and Bunge S.A.
+Buttermore Newman Delanney & Foltz, LLP
+C&T Charters
+C.R. Bard, Inc.
+CAJA DE AHORROS DE SANTANDER Y CANTABRIA
+CANADEM (Canada's Civilian Reserve)
+CANFORNAV INC.
+CARESTREAM HEALTH
+CARESTREAM HEALTH 
+CARESTREAM HEALTH INC
+CARLSON WAGONLIT TRAVEL/ SATO TRAVEL
+CENTRO D ESTUD.RURALES Y DE AGRICULTURA INTERNACIONAL
+CHS Inc.
+CIBC Trust Corporation
+CLIENT'S EBAY
+CMP Industries LLC
+COICO MED LLC
+COICOMED LLC
+COMSOFT SOS DEVELOPERS
+CONSTRUCTORA GEOBRAING, C.A.
+CSL Behring LLC
+CV OMNI BINA CENDEKIA
+Cable News Network, Inc. (CNN)
+Cadogan Tate
+Cadwell Laboratories
+Cadwell Laboratories, Inc.
+Caisse Regionale de Credit Agricole Mutuel Sud Rhone Alpes
+Cal Alumni Association UC Berkeley
+Cal-Cuba Art Project
+California Consortium  for Agricultural Export
+California Consortium for Agricultural Export
+California Desert Seed LLC
+California Medical Laboratories, Inc.
+California State University at Los Angeles
+California State University of Los Angeles
+California State University, Long Beach
+Californians Building Bridges
+Calvary Hill Funeral Home
+Canadian Bureau for International Education
+Cappella Medical Devices, Ltd.
+Caravan Ingredients
+CareFusion Corporation
+Carestream Health
+Carestream Health Inc.
+Cargill, Inc.
+Caribbean Conservation Trust, Inc.
+Caribbean Cultural Center African Diaspora Institute
+Caribbean Medical and Humanitarian Relief Corporation
+Caribbean Medical and Humanitarian Relief Corporation 
+Caribbean Pharmaceutical Group NV
+CaridianBCT, Inc.
+Carl Zeiss Meditec, Inc.
+Carnegie Museums of Pittsburgh
+Catepillar, Inc.
+Cathedral Basilica of the Sacred Heart
+Cayenne Medical, Inc.
+Caytrans Project  Services 
+Caytrans Project Services 
+Caytrans Projects Services Limited
+Cedar Oriental Rugs LLC
+Celergo LLC
+CellMark Pulp and Paper, Inc.
+Centana Educational Foundation
+Center for Cuban Studies, Inc.
+Center for Democracy in the Americas
+Center for Global Justice
+Center for Inter- American Legal Education, Inc.
+Center for Inter-American Legal Education, Inc.
+Center fro International Policy
+Central Bank of Libya 
+Central Park Conservancy
+Cenzone Tech, Inc.
+Cernuda Art Consultants, Inc.
+Certain Reinsurerss of Afriqiyah Airways and Clyde & Co. US LLP/Clyde & Co. LLP
+Chamber Explorations
+Charlston Technologies PTE LTD
+Chembio Diagnostics Systems, Inc.
+Chemonics International Inc.
+Cheveron Libya Ltd/ Cheveron Tripoli Libya Ltd
+Children of Persia, Inc.
+China Construction Bank Corporation Johannesburg Branch
+Chiquita Brands International, Inc.
+Chiquita Brands International, Inc. , subsidiaries Chiquita Brands Internatioal Sarl and Chiquita Hellas S.A.
+Christian Aid
+Christie's
+Christie's, Inc.
+Ciba Vision Corporation
+Ciber, Inc.
+Cisco Systems, Inc.
+Citbank N.A., New York
+Citgroup Inc.
+Citi (Bundesbank litigation)
+Citibank, Inc.
+Citibank, N.A.
+Citibank, N.A., Algeria
+Citibank, N.A., India
+Citibank, N.A., London
+Citibank, N.A., New York
+Citibank, N.A., Shanghai Branck
+Citichamp International Co., LTD.
+Citigroup Inc.
+Civil Aviation Dept. Myanmar
+Clarity Medical Systems, Inc.
+Clean Caribbean & America (formerly Clean Caribbean Cooperative)
+Clipper Interamerican Carriers Ltd
+Clipper Project Shipping, Ltd.
+Coastline Exports, LLC
+Coico Medical L.L.C.
+Coico Medical LLC
+Coico Medical LLC 
+Colony Club
+Coloplast A/S
+Columbia Coastal Transport, LLC 
+Columbia University
+Columbus Networks Services Inc.(formerly known as A.Sur Net Services)
+Columbus Networks USA, Inc. (formerly known as New World Services) 
+Comdex Corporation
+Commodity Specialists Company
+Commonwealth of Virginia Department of Agriculture and Consumer Services
+Compagnie Francaise de Mines et Metaux
+Compagnie Francaise de Mines et Metaux ("CFMM")
+Compania Colombiana de Tabaca S.A. ("Coltabaco")
+Company for Vaccine  and Biological Production No.1, Vietnam
+Company for Vaccine and Biological Production No.1, Vietnam
+Concord Group USA, LLC
+Concordia Agritrading PTE LTD
+Concordia Middle East B.V.
+Confi-Dental Products Co.
+Congress of the United States 
+ConocoPhillips Company
+Conquest Aircraft Leasing, LLC
+Consort Global Group LLC
+Consulate General  of Belgium
+Consulate General of Belgium
+Cooperative Resources International
+Corcoran Gallery of Art
+Cornell University, Cornell's Adult University
+Cosmedent, Inc.
+Cosmos Club Chess Group
+Cotecna Inspection Inc.
+Council for Accreditation of Counseling (CACREP)
+Council for Accreditation of Counseling... (CACREP)
+Council on International Educational Exchange
+Couturier Gallery
+Covalon Technologies Ltd.
+Covidien
+Covington & Burling LLP
+Cozen O'Connor
+Credit Agricole Commercial & Investment Bank 
+Crimson Shipping Company, Inc.
+Crippen Mortuary
+Cross-Cultural Solutions
+Crowley Maritime Corp.
+Cuba Cultural Travel
+Cuba Travel Services, Inc.
+Cuba! Cuba!
+Cuba! Gallery of Fine Art
+Cuban Democratic Directorate
+Cuban Electric Company 
+DAIMARU KOGYO LTD
+DAL Group
+DANIEL ADVOGADOS
+DHL Express (USA), Inc.
+DLA Piper
+DLA Piper LLP
+DLA Piper LLP  (US)
+DLA Piper LLP (US)
+DOHA Bank
+Daavlin Company
+Darlene Calzon Barror, P.A. 
+Dartmouth College
+Dartmouth Office of Alumni Relations
+David Ross Group, Inc.
+Debevoise & Plimpton LLP
+Deere & Company and John Deere International
+Del Monte Fresh Produce Company
+Derek Prince Ministries
+Deutsche Bank Sociedad Anonima Espanola
+Deutsche Post AG NL Renten Service
+Dewey & LeBoeuf LLP
+Diamond V
+Diamond V Mills, Inc.
+Digital  Sandbox
+Digital Sandbox
+Disarm Education Fund
+Diverse Collection, LLC
+Dodgertown West
+Doha Bank
+Dolby Laboratories, Inc.
+Dole Fresh Fruit International, Limited.
+Dollar Super Store
+Dominion Pension Plan Trustees (JSY) Limited ATO P MCCONNON 
+Dorman & Business Consultants
+Dorsing Seeds, Inc.
+Dove Funeral Home, Inc.
+Draeger Medical Infant Care, Inc.
+Dresser-Rand Group, Inc.
+Dräger Medical Systems, Inc.
+Duke Alumni Association
+Duke University Office of Export Controls
+Duke Univesity
+Durfort Holding, S.A.
+Durso & Co., Inc
+Dutch Metal Trading BV
+Duxbury Systems, Inc.
+EAST AFRICA REINSURANCE COMPANY LTD
+ECOLE FRANCAISE DE LA HAVANE c/oTHE FRENCH EMBASSY LA HABANA
+ECOLE FRANCAISE DE LA HAVANEc/oTHE FRENCH EMBASSY LA HABANA
+EMASS Senior Softball Association, Inc.
+EMBAJADA DE ESPANA EN CUBA
+EMBASSY OF RUSSIA IN LIBYA
+EMR Solutions
+ESCO Corporation 
+ESSAR SHIPPING AND LOGISTICS (PANAMA) INC
+ESTUDAR NO EXTERIOR INTERCAMBIO CULTURAL
+EXIMTrends, LLC
+Eagle Vision, Inc.
+Eduardo Cosio, P.A.
+Educational Testing Service
+El Roaa Import and Export
+El Sueno Pictures, LLC
+Elderhostel, Inc.
+Elekta Limited
+Elgin Assisted Living EB-5 Fund, LLC
+Eli Lilly and Company
+Elim Fellowship
+Elite Teams Sports Agency
+Emerald Seeds
+Emerson Network Power (India) Private Limited
+End Product Results, LLC
+Endo Optiks, Inc.
+Energy and Commodities Global
+Environmental Defense Fund
+Environmental Defense Fund, Inc.
+Envoy Medical Corporation
+Episcopal Relief and Development
+Equistar Chemicals LP
+Ernest Hemingway Foundation of Oak Park
+Europaesch- Iranische Handelbank AG
+European Commission (Commission of the European Union)
+Eximtrends LLC
+Exxon Mobil Corporation
+Exxon Mobil Libya Limited
+EyeKon Medical, Inc.
+FARM FZCO ("FARMCO")
+FCOM Trading Co., Ltd.,  Shenzhen, PRC
+FCOM Trading, Shenzhen, China 
+FCOM Trading, Shenzhen, PRC
+FM Capital Partners Fund
+FM Capital Partners Ltd.
+FM Capital Partners, Ltd.
+FMCP Funds, PLC 
+FRONTLINE CARGO LOGISTICS, LLC
+FULL_NAME
+Faegre & Benson LLP
+Faggas Funderal Home
+Faisal Islamic Bank (Sudan)
+Faith Presbyterian Church of Baltimore
+Farmer's Rice Cooperative 
+Farmers' Rice Cooperative
+FedEx Trade Networks Transport & Brokerage
+Federacion de Baloncesto Puerto Rico
+Federacion de Luchas Asociadas de Puerto Rico
+Federal Reserve Bank of New York
+Feinstein International Center for Tufts University
+Fidas Enterprises Inc 
+Field Street Baptist Church
+Filmsters LLC, of Annapolis
+First Baptist Church of Jonesboro
+First Class Imports & Export LLC
+First Presbyterian Church
+First United Methodist Church
+Flatness International, Inc.
+Flexbar Machine Corporation d/b/a Mediflex
+Florida Baptist Convention
+Florida Department of Financial Services Unclaimed Property
+Florida Funeral Home and Crematory
+Florida Keys Tropical Research Ecological Exchange Insitute, Inc.
+Flow X-Ray Corporation
+Fluor
+Foley Hoag LLP
+Food for the Poor, Inc. 
+Forbes Medi-Tech Inc.
+Ford Foundation
+Foreign and Commonwealth Office
+Forest Hill Church
+Forest Lawn Memorial Park
+Forest Lawn Memorial Parks & Mortuaries
+Fortis Bank, S.A./N.V.,  London Branch
+Fortis Bank, S.A./N.V., London Branch
+Fotochemische Werke GmbH
+Foundation for Caribbean Studies
+Freedom From Chains, Inc.
+Fresh Trading Company Limited
+Friendly Planet Travel, Inc.
+Friends of Caritas Cubana, Inc.
+Friends of the Earth International
+Fujirebio Diagnostics, Inc.
+Funeraria Villa Nevarez
+Futurebiotics, LLC
+G. A. PAPER INTERNATIONAL (USA) INC.
+G.A. PAPER INTERNATIONAL (USA) INC.
+G.A. Paper International (USA) Inc.
+GAMA ENDÃœSTRÄ° TESÄ°SLERÄ° Ä°MALAT VE MONTAJ A.Åž.
+GE Healthcare
+GE Healthcare 
+GMC-German Medical Care GmbH
+GOVERNMENT OF KENYA -   MINISTRY OF FOREIGN AFFAIRS
+GOVERNMENT OF KENYA - MINISTRY OF FOREIGN AFFAIRS
+Galeria Cubana
+Gaspari Nutrition, Inc
+Gaumard Scientific Co.
+Gavilon, LLC
+Gemological Institute of America
+General Cigar Co.
+General Dynamics
+General Electric
+General Electric Company
+General Electric International, Inc.
+General National Maritime Transport Company , Ltd.
+General National Maritime Transport Company , Ltd. 
+General Reinsurance Corporation
+General Reinsurance Corporation 
+Genetics International Inc.
+Germaine Laboratories Inc.
+Gilead Sciences, Inc.
+Global Action Network-Net
+Global Connection International
+Global Gallop LLC
+Global Links
+Global Water Services, S.A.
+Goff Associates, Inc.
+Golden & Cowan, P.A.
+Golden Assisted Living EB-5 Fund, LLC  and Chicagoland Foreign Investment Group
+Golden Assisted Living EB-5 Fund, LLC  and Chicagoland Foreign Investment Group, LLC
+Golden Assisted Living EB-5 Fund, LLC and Chicagoland FOreign Investment Group, LLC
+Golden Assisted Living EB-5 Fund, LLC and Chicagoland Foreign Investment Group
+Golden Assisted Living EB-5 Fund, LLC and Chicagoland Foreign Investment Group, LLC
+Golden biotechnologies Corp
+Goldenland Seed Co., Inc.
+Google Inc.
+Google, Inc.
+Goulston Technologies, Inc.
+Grace Episcopal Church of Orange Park
+Grace United Methodist Church
+Graduate Management Admission Council ("GMAC")
+Grameen Foundation
+Grameen Foundation Grameen Foundation
+Grand Circle Foundation
+Grand Valley State University
+Grason-Stadler/Div of Viasys Healthcare
+Greenberg Traurig
+Greenberg Traurig, LLP
+Greystar Corporation
+Growth Products LTD
+Grunfeld, Desiderio, Lebowitz, Silverman & Klestadt LLP
+Grupo C. Lozano S.A.S.
+Guantanamera Cigar Co.
+Gulf South Forest Products, Inc.
+H.E.D. Seed Productions Ltd., Inc.
+HATUA International
+HCA Holdings, Inc.
+HKS, Inc.
+HSBC Bank Bermuda Ltd.
+Habib Bank Limited
+Haemonetics Corporation 
+Hail & Cotton, Inc.
+Halliburton Energy Services, Inc./ Boots & Coots Services, LLC
+Halocarbon Products Corporation
+Harmonic Insurgence
+Harmony Free Will Baptist Church
+Harris Moran Seed Company
+Harte Research Institute for Gulf of Mexico Studies
+Harte Research Institute for Gulf of Mexico Studies 
+Harvard Alumni Association
+Harvard University
+Harvard-Radcliffe Orchestra
+Hebron Baptist Church
+Hemostasis LLC
+Herald of Truth Ministries Inc.
+Hercules USA Inc.
+Hercules USA, Inc.
+Hess Corporation
+Hicks Thomas LLP
+High Health Aquaculture, Inc.
+Hitachi Plant Technologies  Limited (Dubai Branch)
+Hitachi Plant Technologies Limited (Dubai Branch)
+Hogan Lovells (Alicante) S.L. & Cia.
+Hogan Lovells US LLP
+Holland & Knight 
+Holland & Knight  on behalf of clients
+Hollar & Co., Inc.
+Hollins University
+Holmes Corporation
+Hologic, Inc.
+Hologic, Inc. 
+Hoogwegt US
+Horan & McConaty Funeral Services
+Horns to Havana and the Center for Cuban Studies
+Horse Service International BV
+Hospira, Inc.
+Hossein Danesh
+Howard Hughes Medical Institute (HHMI)
+Hoya Surgical Optics, Inc.
+Huestis Medical
+Humanity United Request
+Hunter Street Baptist Church 
+Hydrodive Offshore International Limited
+I.
+IBC Airways
+IGCP Instituto De  Gestao Da Tesouraria Do Credito Publico
+IGCP Instituto De Gestao Da Tesouraria Do Credito Publico
+IMPLADENT LTD.
+ING
+INTERNATIONAL CRISIS GROUP
+INTERNATIONAL HAINUT TOURISME ASBL
+INTERNEXCO GmbH 
+IPAN GmbH
+IRIDEX Corporation
+IRUN Athletics
+ISO Group Inc.
+Ibercub
+Illume Productions, INC.
+ImEx Gulf, Inc.
+Imagine Press
+Imperial Valley Seeds, Inc.
+Indiana University- Jacobs Scool of Music
+Indianapolis Museum of Art
+Infonet Services Corporation
+Informatica Corporation 
+Infosuisse Information Horlogere et Industrielle
+Infrastructure Development Partnership
+Infyesys International Ltd
+Inguran Wisconsin LLC, (dba Sexing Technologies & Trans-World Genetics)
+Innova Seeds Co.
+Inside Investment Company
+Insightra Medical
+Instalaciones Industriales Peninsulares
+Institute for Internaitonal Urban Development 
+Institute of International Education, Inc.
+Inter-American Dialogue
+Interests Section of the Islamic Republic of Iran, Embassy of Pakistan
+Intermarket Banking Corporation Zambia Ltd.
+Intermarket Banking Corporation Zambia Ltd. 
+International Association for Dental Research (IADR)
+International Association of Drilling Contractors
+International Association of Drilling Contractors 
+International Center for Transitional Justice
+International Cotton Advicory Committee
+International Hotel Investments plc
+International Mission Board
+International Mission Board Southern Baptist Convention
+International Monetary   Fund
+International Monetary Fund
+International Port Corporation
+International Relief and Development, Inc.
+International Rescue Commitee
+International Rescue Committee, Inc.
+International Society for Children with Cancer
+International Society for Children with Cancer 
+International Trade Consulting, Inc.
+Internet Corporation for Assigned  Names and Numbers
+Internet Corporation for Assigned Names and Numbers
+Internet Corporation for Assigned Names and Numbers (ICANN)
+Intertorco Europe S.A.
+Intervale Capital Fund, L.P.
+Invotec International, Inc.
+Ira J. Nasserian &Associates on behalf of client,
+Iraj Pessian & Associates
+Iridex Corporation
+Islamic International Funeral Service
+Islamic International Funeral Services
+Islamic Relief USA (IRUSA)
+Iten Industries
+J.G. Boswell Tomato Company, LLC
+J.P. Morgan Chase
+J.P. Morgan Ventures Energy Corporation 
+JA Butler Companies Inc. dba Prime Performance Nutrition
+JAMAICA BROILERS GROUP
+JP Morgan Chase & Co.
+JPMiorgan Chase & Co./ Monami Co. Ltd., Korea
+JPMorgan Chase & Co.
+Jaffe & Asher LLP
+James Madison University
+Jardines Y Funerarias Del Angel 
+Jeneil Biotech, Inc. 
+Jet Medical SA
+Jewish Solidarity
+Jin Rui Group INC.
+Joaquin Mendez, P.A.
+John D. and Catherine T. MacArthur Foundation 
+Johnny's Selected Seeds
+Johnson & Johnson
+Johnson & Johnson Professional Export
+Johnson & Johnson Professional Export, a division of Johnson & Johnson Medical Limited Reg. No. SC 132162
+Joint Stock Company Belaruskali
+Joni and Friends Total Access
+Josef Silny & Associates, Inc.
+Jubilee American Dance Theatre
+Julie and Marty Belz Charitable Foundation
+Julie and Marty Belz Charitable Foundation 
+KBR, Inc.
+KCA DEUTAG  GMBH
+KCA DEUTAG GMBH
+KLM Royal Dutch Airlines NV
+Kalantar Law Firm
+Kannar, Inc
+Kaplan & Katzberg
+Karl Storz GmbH & Co. KG
+Kase Equipment
+Katena Products, Inc.
+Keesom & Hendriks N.V.
+Kelley Manufacturing CO
+Kemin Industries, Inc.
+Kepner-Tregoe Inc.
+KeraMed Inc.
+Kimberly-Clark Corporation
+Kinetix, Inc
+King's School of English (Tuition) Ltd T/A Kings Bournemouth
+Kingsun United Development
+Knights of Columbus
+Knigthts of Columbus 
+Koch Industries, Inc.
+Kona Bay Marine Resources
+Korean Immanuel Mission Church 
+Kraft Foods International, Inc.
+Kroll Inc.
+L3 Communications
+LGM Internatoinal Inc.
+LSC International/ The Hale Group
+La Colonial, S.A.
+Lacerta Group, Inc.
+Lake Magdalene United Methodist Church
+LakePointe Church
+Lares Research
+Lasersight
+Latham & Watkins
+Latin American Medical School
+Law Office  Eduardo Cosio, P.A. on behalf of client
+Law Office of Abbe Jolles
+Law Office of Joaquin Perez
+Law Offices Neil M. Schuster
+Law Offices of Abbe Jolles
+Law Offices of Alan Ellis
+Law Offices of Douglas N. Jacobson, PLLC.
+Law Offices of Foreman, DeGeurin & Nugent
+Law Offices of Lorenzo & Lorenzo on behalf of Elva Torres Ayra Morera 
+Law Offices of Richard J. Diaz, P.A.
+Law Offices of Saeid B. Amini on behalf of client
+Law Offices of Stewart and Stewart
+Law Offices of Victor . Rocha, P.A.
+Lead-Lok, Inc.
+Leisure Fashion Private Limited
+Lewco Specialty Products, Inc.
+Lexington Institute
+Libya Fund Limited 
+Life Corporation
+Life Spine, Inc.
+Lifecore Biomedical
+Light Street Presbyterian Church
+Lighthouse Ministries
+Lighthouse Ministries of the Valley, Inc.
+Lions Clubs International Foundation
+Liquid Nitro Beverages, Inc.
+Living in Faith, Inc.
+Loblaws Inc.
+Logos Translation Services Inc
+Lohmann Animal Health International Inc
+Lonza Walkdersville, Inc.
+Looper Reed & McGraw 
+Los Angeles County Museum of Art
+Lou Nuer Community Development International 
+Louis Armstrong New Orleans International Airport
+Louis Dreyfus Corporation
+Luhring Augustine Gallery
+Lyndhurst Community Presbyterian Church
+LyondellBasell Industries, N.V.
+MAQUET Cardiovascular LLC
+MAWARID ELECTRONICS
+MAWARID ELECTRONICS 
+MEA RESEARCH LIBRARY - FEDERAL GOVERNEMENT OF NIGERIA
+MEDICAL ILLUMINATION INTERNATIONAL, INC.
+MEHUSA, Inc
+MF Global UK Limited 
+MP Biomedicals, LLC
+MTO Leadership Development, Inc. 
+Macken Funeral Home
+Magier & Savrin 
+Magnatone Hearing Aid Corporation
+Mahvash Behdinan/ Hormoz Diar Jamshidi
+Manatee to Manati Sister City Association
+Manufacturers and Traders Trust Company (M&T Bank)
+Marathon Oil Corporation 
+Marif Inc.
+Markex Global
+Markovit
+Mars, Inc.
+Martec Industries, Inc.
+Maryland Department of Agriculture 
+Masimo Corporation
+Maspons Funeral Home
+Massachusetts Eye and Ear Infirmary, Harvard Medical School
+Massachusetts Foundation for the Humanities
+Master Travel LLC
+Masterpiece International Ltd.  
+Masterpiece International, Ltd.
+Masters Fine Arts, LLC
+Maxi Reisen s.r.o.
+Maximum Human Performance
+Maybank Industries, LLC
+McKesson Corporation
+Mead Johnson & Company LLC
+Mead Johnson Nutrition Company
+Med-Rite Laboratories, LLC
+Medecins Sans Frontieres/ Doctors without Borders
+Medennium, Inc.
+Medical Chemical Corporation
+Medical Components, Inc. (MedComp)
+Medical Instrument Development Laboratories, Inc. (MID Labs)
+Medical Technical Products
+Medical University of South Carolina 
+Medtronic, Inc.
+Medtronic, Incorporated
+Mehdad Hospital
+Mehusa, Inc.
+Mel-Sam LLC
+Melvin S. Black, P.A.
+Mennonite  Central Committee
+Mennonite Central Committee
+Mercer Trust Company
+Mercer Trust Company and Mercer HR Servcices, LLC ( collectively, "Mercer")
+Merck Sharp & Dohme Corp.
+Mercy Corps
+Merit Medical Systems, Inc.
+Metropolitan Pavilion
+Microvision, Inc.
+Mike Haro Inc.
+Miller & Company P.C.
+Miller Farms and Associates LLC
+Milton Breakers Baseball Team
+Ministry of Foreign Affairs
+Ministry of Foreign Affairs Riyadh, Saudi Arabia
+Miss Porter's School
+Moawad & Herischi
+Mohammad Modares and Susan Partovi
+Molecular Diagnostic Services, Inc.
+Molokai Sea Farms
+MoneyGram International
+MoneyGram International Hogan
+Monsanto Company
+Monsanto Company 
+Montgomery Botanical Center 
+Montverde United Methodist Church
+Morgan Stanley
+Morgan Stanley 
+Morris Hatchery, Inc.
+Mortara Instrument, Inc.
+Mortara Instruments, Inc.
+Moshen and Shahin Balouchian
+Mount Tamalpais
+Mount Tamalpais Mount Tamalpais
+Myanmar Foundation for Analytic Education, Inc.
+Myanmar Foundation for Analytic Education, Inc. 
+N2 Rubber Limited
+NAFSA: Association of International Educators
+NAMA FOUNDATION
+NATIONAL BOARD FOR CERTIFIED COUNSELORS
+NATIONAL BOARD FOR CERTIFIED COUNSELORS 
+NATIONAL BOARD FRO CERTIFIED COUNSELORS (NBCC)
+NESTLE SUISSE S.A
+NGC Network International, LLC
+NNP-ME LLC
+NOVA BIOMEDICAL CORPORATION
+NOVA Biomedical Corporation
+National Audubon Society, Inc.
+National Collegiate Trust (NCT)
+National Democratic Institute
+National Democratic Institute for International Affairs
+National Endowmnet for Democracy
+National Geographic Society
+National Starch & Chemical GmbH
+National Starch LLC
+National Transitional Council
+National Trust For Historic Preeservation
+Natrol, Inc
+Natrol, Inc.
+Natural Organics, Inc.
+Natural-Immunogenics Corporation
+Nature's Edge, Inc.
+Nature's Gifts International, Inc.
+Nature's Strongholds Foundation, Inc.
+NatureFit Vitamins LLC
+Natus Medical Incorporated
+Navigators Insurance Company
+Navitaire LLC
+Navitaire, Inc. 
+Nazmiy al, Inc.
+NeoMedix Corporation
+Neurovirtual USA, Inc.
+New College for Interdisciplinary Arts and Sciences, Arizona State University West Campus
+New Life Church Canton Inc.
+New Medical Technology, Inc.
+New York Philharmonic
+New York Philharmonic 
+News Corporation
+Nicaro Friendship Foundation, Inc.
+Nidek Medical Products, Inc.
+Nik & Lia Investment Holding Co. Ltd
+Niki Trading Company
+Nipro Diagnostics, Inc.
+Nobel Services AG
+Noble Energy, Inc. aka Noble Energy Mediterranean Ltd
+Nokia Siemens Networks US LLC
+Nonin Medical, Inc.
+Norcan Seeds, Inc.
+North American Solutions Inc., NASCO
+North Carolina Museum of Art
+Nova Biomedical Corp
+Novartis Consumer Health, Inc.
+Novartis Vaccines and Diagnostics, Inc
+NuMed, Inc.
+Nucor Corporation
+Nunhems USA, Inc.
+NutriLabs International, Inc.
+O'Connor Mortuary 
+OIL LIBYA (K) LTD
+ONCE
+OOO "Inter Group"
+OPERACIONES LOGISTICAS LTDA
+OPTI Medical Systems, Inc.
+ORGANIZATION
+Obsidian Arts Center
+Occidental Petroleum Corporation
+Occidental Petroleum Corporation 
+Oceanside Museum of Art
+Octagon 
+Ocular Systems, Inc.
+Odin Marine Europe BV
+Oilinvest
+Olam Americas Inc
+Olympus
+Omana Group, LLC
+On-X Life Technologies, Inc.
+One Two Go Airlines Aircraft Accident on Sept. 16,2007: Denny et al v. Tsang et al
+One Two Go Airlines Co. Ltd.
+One World Running
+Oneonta Trading Corporation
+Open Society  Institute
+Open Society Institute
+Operation USA  
+Optimum Nutrition, INC
+Oracle Corporation
+Origio Humagen Pipets
+Ortho Technology
+Oscor Inc.
+Ostial Corporation
+Otsuka Pharmaceutical Development and Commercialization, Inc.
+Overseas Council
+OxFam America, Inc.
+Oxfam America, Inc.
+Oxfam-Solidarite ASBL
+PACIFIC NETWORK GLOBAL LOGISTICS (CHINA) LTD
+PANIFICADORA LA POPULAR
+PAZZO CABO S DE RL DE CV 
+PETROBRAS INTERNATIONAL BRASPETRO B.B - LIBYA BRANCH
+PLUMLEAF LIMITED
+PNC Bank
+PORTUGESE GOVERNMENT-FOREIGN MINISTER
+PRESIDENTIAL AIR FLEET
+PROVINCIA FRANCISCANA DE ARANZAZU
+Pact Inc.
+Pact Inc. 
+Pall Corporation
+Palladyne Global Advanced Portfoilio Fund Limited
+Palm Beach Regional Center 
+Palomar Medical Technologies, Inc.
+Pan American Development Foundation
+Pan American Health Organization (PAHO)  
+Pan American Health Organization/World Health Organization Federal Credit Union
+PanAmerican ArtProjects
+Park Cities Baptist Church
+Parker Funeral Service & Crematory
+Patchwork Distribution, Inc.
+Patino & Associates, P.A.
+Patton Boggs LLP
+Penash Medical
+People to People International
+Perkins Coie
+Persian Wildlife Foundation
+Pfizer
+Pfizer , Inc.
+Pfizer Inc
+Pfizer Inc.
+Pfizer Inc. (including when doing business as Pfizer CentreSource)
+Phibro Animal Health
+Phibro Animal Health Corporation
+Philharmonic Center for the Arts
+Philip Morris International Inc.
+Philips Electronics North America Corporation
+Philips Lumileds Lighting Company Sdn Bhd
+Phoenix Grain, Inc.
+Piramal Critical Care
+Plantados Until Freedom and Democracy in Cuba Inc.
+Pointe Conception Medical
+Pope Funeral Homes
+Pope Funeral Homes 
+Population Council, Inc.
+Port of Beaumont
+Port of Houston Authority
+Porter Loring Mortuary
+Preferred Popcorn LLC
+Premium Tobacco Company US Inc
+Prime Dental Manufacturing, Inc.
+Princess Cruises
+Princeton University Alumni Association
+Professional Flight Transport d/b/a Windsor Jet Management
+Project Por Amor 
+Project Troubador
+Prudential Investment Management Serives, Inc.
+Puerto Rico Baseball Federation (Federacion Beisbol Aficionado De Puerto Rico) 
+Puerto Rico Basketball Encounter
+Puerto Rico Pharmaceutical, Inc.
+Puerto Rico Pharmaceutical, Inc. 
+Pulpdent Corporation
+Punj Lloyd Ltd
+Purdue University
+Pyramed Health LLC
+Pyrotek
+Quantimetix Corporation
+R.S. HUGHES CO, INC.
+R.S. Johnson, Ltda.
+R.W. Armstrong & Assoc.  Inc.
+RBC Capital Markets LLC 
+REALONT MANAGEMENT INC
+RIKSJAONLINE B.V.
+RIU Bookings S.L.
+RMO, Inc.
+Rabinowitz, Boudin, Standard, Krinsky & Lieberman, P.c.
+Rabinowitz, Boudin, Standard, Krinsky & Lieberman, PC
+Radio Progreso
+Radiometer Medical ApS
+Ragazzi Boys Chorus
+Reach Out Ministries
+Red Arrow International, LLC
+Register International, Inc.
+Reliance Dental Manufacturing Company
+Reliance Medical Products, Inc
+Reliant Medical Systems
+Relief International
+Remington Resources, LLC
+Remitter:(b)(6); Beneficiary: Not Provided
+Remitter:A.I.F.O.  Associazione Italiana Amici di Raoul Follereau; Beneficiary:American Leprosy Missions    www.leprosy.org
+Remitter:ACROPOLI IMPEX S.A.; Beneficiary:UYUSTOOLS PANAMA S.A.
+Remitter:ACROPOLI IMPEX S.A.; Beneficiary:UYUSTOOLS PANAMA S.A. 
+Remitter:Clipper Interamerican Carriers Ltd; Beneficiary:Acando Shipping Co. Ltd.
+Remitter:Deutsche Post AG NL Renten Service; Beneficiary:(b)(6)
+Remitter:FILA / International Federation of Wrestling Association; Beneficiary (b)(6)
+Remitter:FILA / International Federation of Wrestling Association; Beneficiary: (b)(6)
+Remitter:GAMA ENDÃœSTRÄ° TESÄ°SLERÄ° Ä°MALAT VE MONTAJ A.Åž. ; Beneficiary: (b)(6)
+Remitter:PAZZO CABO S DE RL DE CV ; Beneficiary:JUAN PEREZ Y ASOCIADOS S DE RL DE CV
+Reserveage Organics
+Retractable Technologies, Inc.
+Revelle Shipping Agency
+Revive Health Products
+Robert Haber & Associates, Inc.
+Robinson Pharma Inc.
+Robinson Pharma, Inc.
+Roche Diagnostics GmbH
+Rockwell Collins
+Rockwell Collins Flight Services
+Rojas & Oliva
+Ropers & Gray
+Roxcel Corporation
+Royal Bank of Canada Trust Company (International)
+Royal Bank of Canada Trust Company (International) Limited
+Royal Jordanian Airlines
+Russell Kronick/Liam Power-Kronick
+Rutgers, The State University - Camden Campus (the "University")
+Rutherford Fneral Homes and Crematory 
+Rutherford Funeral Homes and Crematory 
+S&W Seed Company
+S.I. Travel
+S3 International , LLC. 
+SARL MEUBLES DES FETES
+SCOR Reinsurance Corporation 
+SERVICE GALLERY LTDA.
+SGM Biotech
+SI S.A.
+SIL International
+SOCAR TRADING SA
+STERIS Corporation
+STS TRUCKING SERVICES
+SYRATEL - Systemes Radiocommunication et Teleinformatique 
+Saint John's Church of West Hartford
+Saint Paul's United Methodist Church
+Salesian Missions, Inc
+Salesian Missions, Inc.
+Samwod Industries (Shanghai) CO., LTD
+San Diego Black Sox Baseball Club
+San Diego Funeral Service
+San Francisco Girls Chorus
+Sandoz International GmbH
+Sanofi Pasteur Inc.
+Santa Barbara Museum of Art
+Santa Monica Saints Rugby Club 
+Santa Rose Mortuary Eggen and Lance Chapel
+Sarah Lawrence College
+Sarl Telechange
+Saturn Supplements, Inc.
+Savannah Country Day School
+Schering Plough Corporation
+Schiff Nutrition International, Inc.
+Schlumberger Global Resources Limited
+Schulte Roth & Zabel LLP
+Schwarz & Partner
+Scofield
+Sea World Skies - U.S. Government Solutions
+Sea to Shore Alliance
+Seattle BioMed
+Seattle Biomedical Research Institute
+Sechrist Industries, Inc.
+Senior Softball - USA
+Serenity Funeral Services L.L.C.
+Setaf Saget SAS and Setaf America, Inc.
+Setaf-Saget SAS
+Shaheen, Jacobs & Ross, P.C.
+Shahrokh Kianpour Customs Broker
+Sharn Anesthesia Inc.
+Shimadzu Corporation
+Shore Genetics International, LLC
+Sidley Austin LLP
+Siemens Corporation
+Siemens Corporation, Global Shared Services North America
+Siemens Corporation, Inc.
+Siemens Medical Solutions Inc. - Ultrasound
+Siemens Medical Solutions USA
+Siemens Medical Solutions USA 
+Siemens Medical Solutions USA, Inc.
+Silicon Niroo
+Silver Assisted Living EB-5 Fund, LLC
+Sir John Soane's Museum Foundation
+Skadden, Arps, Slate, Meagher & Flom LLP & Afffliates
+Smith & Nephew, Inc.
+Smiths Medical International Ltd.
+Smiths Medical International Ltd. 
+Social Science Research Council
+Social Security Administration
+Societe Generale, New York Branch
+Society of the Sacred Heart, U. S. Province
+SonoSite, Inc.
+Sonomed, Inc.
+Sotheby's
+Spacelabs Healthcare
+Spacelabs Medical, Inc.
+Spoleto Festival USA
+Sportika Export
+Sportika Export Inc.
+Sportika Export, Inc
+Sportika Export, Inc.
+Sprint
+Squire, Sanders & Dempsey (US) LLP
+St. Augustine-Baracoa Friendship Association
+St. Jude Medical, Inc.
+St. Paul School Madrigal Singers and String Ensemble 
+Stanbic Bank
+Standard Bank Group Limited 
+Standish Mellon Asset Management Company LLC
+Stanford University  
+State Street
+Steptoe & Johnson LLP
+Steptoe and Johnson LLP
+Stryker Corporation
+Suarez & Taylor
+Sudan Mission to the UN (GOSS)
+Sudanese American Orphaned rehabilitation Organiza
+Sudanese American Orphaned rehabilitation Organization (SAORO)
+Summit Doppler Systems, Inc.
+Sun Nuclear Corporation
+Sundown Industries Corp.
+Sungard Data Systems Inc.
+Superior Memorial Services
+SurModics
+Surgical Implant Generation Network
+Surgistar, Inc.
+SynergEyes, Inc.
+Syniverse Technologies, Inc
+Sysmex Europe GmbH
+Systagenix Wound Management Limited
+Systagenix Wound Management Limted 
+T. Parker Host, Inc.
+TAKAPO TEB CO
+TBS Shipping Services Inc
+TBS Shipping Services Inc 
+TEKIA. INC
+TELEFONICA MOVILES ESPANA SAU
+TOTAL PETROCHEMICALS USA, INC
+TOYECA FORKLIFT PARTS, C.A.
+TPC Group LLC
+TRANSOCEAN SHIPPING VENTURES PVT. LTD.
+TRIBE COMMUNICATION
+TS-Enterprises OY 
+TSRA
+Talecris Biotherapeutics, Inc.
+Tamoil Overseas Ltd.
+Tampa Bay-Cuba People to People Outreach
+Tampa International Airport
+Tanfield Chambers
+Tangiers International Ltd
+Taurus Petroleum Ltd
+Taurus Service, Inc.
+Telecom Italia S.P.A.
+Tellabs Operations, Inc.
+Temple Beth Sholom
+Temple Sinai 
+Tercica, Inc.
+Terumo Cardiovascular Systems Corporation
+Tesoros Encantados LLC
+Texas Department of Agriculture
+Texas Grain Sorghum Association
+Texas Seed Trade Association
+The Art Institute of Chicago
+The Aspen Institute
+The Bank of New York Mellon
+The Bank of New York Mellon 
+The Bank of New York and BNY Mellon, NA (collectively, the "BNY Mellon")
+The Boulder-Cuba Sister City Organization 
+The Broadway Ambassadors
+The Caribbean Music Foundation 
+The Carter Center
+The Center for Democracy in the Americas (CDA)
+The Center for Global Education, Augsburg College
+The Center for the Study of Cuban Culture & the Economy
+The Church of Jesus Christ of Latter-day Saints
+The Coca-Cola Company
+The Colonial Williamsburg Foundation
+The Commision of the African Union 
+The Committee on Illinois
+The Commonwealth Club of California
+The Cuban American Policy Consortium
+The Episcopal Church Center
+The Eren Law Firm
+The Eren Law Firm (Bank Mellat Manager)
+The Eren Law Firm (Bank Mellat)
+The Eren Law Firm (Bank mellat subsidiary manager)
+The Evangical Covenant Church
+The Father's House
+The Florida Orchestra
+The Foundation for Human Rights in Cuba
+The Friendship Association
+The Gallery on Greene
+The Global Fund
+The Goldman Sachs Group, Inc.
+The Houston Seminar
+The International Sociology of Sport Associaton
+The Khadem Foundation
+The Law Office of Robert Feitel, P.L.L.C.
+The Law Offices of Saeid B. Amini
+The Metropolitan Museum of Art
+The Nature Conservancy
+The Nature Conservancy 
+The New York Botanical Garden
+The North-West Branch of MegaFon OJSC
+The NutraSweet Company
+The Ocean Foundation 
+The PEW Charitable Trusts
+The Phillips Collection
+The Procter & Gamble Company
+The Queens University  of Belfast
+The Queens University of Belfast
+The ROHO Group, Inc.
+The Royal Norwegian Embassy  (Ambassaden i Havana)
+The Royal Norwegian Embassy (Ambassaden i Havana)
+The Royal Oak Foundation
+The Salgo Trust for Education
+The Solid Rock Evangelistic Association
+The Synergos Institute, Inc.
+The University of Georgia
+The University of Texas at Austin 
+The Zimbabwe Iron and Steel Company Limited
+Therapeutic Proteins, Inc.
+Thomas Jefferson Foundation, Inc. 
+Tides Foundation
+Tiffin University
+Tiffin University  
+Timbmet Group Ltd
+Time Square Construction and Development Company
+Titan Maritime, LLC
+Top Victory Investments Limited
+Total Transportation Concept Inc.
+Tracey Technologies
+Trafigura Beheer B.V.
+Trans-Cuba Oil/ Estate of Michael P. Araneo
+Transitional National Counsel
+Travelport Limited
+Travelport, LP
+Travelscape  LLC
+Travelscape LLC
+Trelco International Co. W.L.L.
+Tryton Medical, Inc.
+Tufts University
+Tulane  University 
+Tulane University 
+Tyco Electronics Subsea Communication LLC
+U.S. - Mideast Export Company
+UBS AG
+UBS AG  Stamford Branch
+UBS AG London Branch
+UCLA Alumni
+UNDP
+UNDP Representative in Fiji
+UNITED BANK OF INDIA
+UNITED NATIONS JOINT STAFF  PENSION FUND
+UNITED NATIONS JOINT STAFF PENSION FUND
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO
+UNKNOWN
+US Agriseeds, Inc.
+US Fencing Association
+US IOL Inc.
+US Intel
+US International Trade
+US International Trade, Inc.
+US Rice Producers Association
+US-Cuba Veterinary Cooperation Society
+USA Rice Federation
+USA Wrestling
+USA Youth Debates
+Unique Technologies, Inc.
+United Americas Shipping Services, Inc. 
+United Medical Instruments
+United Nation Development Program
+United Nations Development Program
+United Nations Federal Credit Union
+United Nations Federal Credit Union ("UNFCU")
+United Nations World Food Programme
+United States Olympic Committee
+United World Mission
+Universal Leaf Tobacco Company, Inc.
+Universal Nutrition
+Universal Weather and Aviation, Inc.
+University of Arizona  
+University of Calfornia, Santa Barbara
+University of California, Davis
+University of California, Santa Barbara Alumni Association
+University of Mary Washington
+University of Maryland -College Park
+University of Maryland -College Park 
+University of Michigan Men's Glee Club
+University of Nebraska Lincoln
+University of Pennsylvania Museum of Archaeology and Anthropology
+University of Puerto Rico, RÃ­o Piedras Campus 
+University of Tennessee Knoxville
+University of Washington Alumni Association
+University of Washington Botanic Gardens
+University of Wisconsin La-Crosse-Learning In Retirement
+Us International Trade, Inc.
+Utah Medical Products, Inc.
+VLD Stud Export Jr. BV
+Valor Medical, Inc.
+Varicom Inc.
+Vassar College 
+Verizon Communications Inc.
+Verizon Communications, Inc., Verizon Business and Verizon Wireless ("Verizon")
+Via Dubai Exchange Travel, Inc.
+Virginia Dare Extract Co.
+Virtus Nutrition LLC
+Vitol Inc.
+Vitol, Inc.
+Vocollect, Inc.
+Volk Optical
+Volk Optical Inc
+Volk Optical, Inc.
+Volney Overseas Inc.
+Vulcan  Productions 
+Vulcan Productions
+WE Accord, LLC
+WE-Accord, LLC
+WKWilburn P.C.
+Wakka Wakka Productions
+Wal-Mart Stores Inc.
+Wastpac Banking Corporation 
+Weatherford International Ltd.
+Weatherford International, Ltd.
+Wells Fargo  and Company
+Wells Fargo Bank, NA
+Wells Fargo and Company
+West Harpeth Funeral Home & Crematory
+West Star Angels
+Western Asset Management Company Limited
+Western Pistachio Association
+Western Union Financial Services, Inc.
+Westminster Presbyterian Church
+White & Case LLP
+Wild Well Control, Inc.
+Wiley  Rein LLP
+Wiley Rein LLP
+Willkie Farr & Gallagher LLP
+Wilmer Cutler Pickering Hale and Dorr LLP
+Wilton Global Trade L.L.C
+Wisconsin Medical Project
+Witness for Peace
+WomanCare Global
+Woodbine Funeral Home, Inc.
+Woodley Equipment Company, Ltd.
+Word Alive International Outreach
+World Affairs Council of Philadelphia
+World Chicago
+World Class Technology Corporation
+World One Trading
+World Security Institute
+World Wide Sires, Ltd.
+Worldwide Innovations & Technologies, Inc.
+Wortham Laboratories, Inc.
+Wyoming Cuba Society
+X-spine Systems, LLC
+XYZ Distributors, Inc.
+Xerox Limited
+Y.K. America
+YM BioSciences USA Inc.
+Yangon International Airport
+Yara North America, Inc.
+ZUEITINA OIL COMPANY
+Zamora & Hillman
+Zandi LLC
+Zarka Exchange/Hikmat Nwaras & Partners Company for Exchange
+Zarka Exchange/Hikmat Nwaras & Partners Company for Exchange 
+Zeigler Bros., Inc.
+Zimchem Refiners (Private) Limited
+Zimmer, Inc.
+Zoll Medical Corporation
+Zonare Medical Systems, Inc.
+blacjac Entertainment Group Corporation
+eZono AG
+ev3 International, Inc
+iBasis, Inc.
+unknown
